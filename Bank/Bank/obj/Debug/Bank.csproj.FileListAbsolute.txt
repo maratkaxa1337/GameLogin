@@ -1,0 +1,17 @@
+E:\Program C#\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Program C#\Bank\Bank\bin\Debug\Bank.exe
+E:\Program C#\Bank\Bank\bin\Debug\Bank.pdb
+E:\Program C#\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\Program C#\Bank\Bank\obj\Debug\Views\Windows\MainWindow.g.cs
+E:\Program C#\Bank\Bank\obj\Debug\App.g.cs
+E:\Program C#\Bank\Bank\obj\Debug\Bank_MarkupCompile.cache
+E:\Program C#\Bank\Bank\obj\Debug\Bank_MarkupCompile.lref
+E:\Program C#\Bank\Bank\obj\Debug\Views\Windows\MainWindow.baml
+E:\Program C#\Bank\Bank\obj\Debug\Bank.g.resources
+E:\Program C#\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\Program C#\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+E:\Program C#\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\Program C#\Bank\Bank\obj\Debug\Bank.exe
+E:\Program C#\Bank\Bank\obj\Debug\Bank.pdb
+E:\Program C#\Bank\Bank\obj\Debug\Views\Pages\Home\LoginPage.g.cs
+E:\Program C#\Bank\Bank\obj\Debug\Views\Pages\Home\LoginPage.baml
